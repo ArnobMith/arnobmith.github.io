@@ -10,19 +10,19 @@
 
 lang: en-US
 
-title: Simanta Deb Turja                          # the main title
+title: Arnob                          # the main title
 
 tagline: 👨‍💻 Software Engineer |💡 Problem Solver | ☕️ Coffee Snob  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Simanta Deb Turja's Personal Blog
+  Arnob's Personal Blog
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://simantaturja.github.io'
 
-author: Simanta Deb Turja                  # change to your full name
+author: Arnob                  # change to your full name
 
-avatar: /assets/img/1561.jpg   # support internet resources
+avatar: /assets/img/SUIT%20AC.jpg   # support internet resources
 
 github:
   username: simantaturja             # change to your github username
